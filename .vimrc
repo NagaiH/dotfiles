@@ -55,3 +55,4 @@ set wildmenu wildmode=list:longest,full
 set history=10000
 set visualbell t_vb=
 set noerrorbells
+set noswapfile
